@@ -1,0 +1,61 @@
+baseURL = 'https://keanyaphelps.github.io/Keanya-website/'
+languageCode = 'en-us'
+title = "Keanya's Personal Website"
+theme = 'PaperMod'
+
+[params]
+  author = "Keanya Phelps"
+  description = "Welcome to my personal website"
+  keywords = ["blog", "portfolio", "personal"]
+  homeInfoParams.Title = "Hi there! I'm Keanya 👋"
+  homeInfoParams.Content = "Welcome to my personal website. Here you'll find my thoughts, projects, and more."
+  
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  
+  [params.profileMode]
+    enabled = false
+    
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/keanyaphelps"
+    
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/keanyaphelps"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+    
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
+    
+  [[menu.main]]
+    identifier = "posts"
+    name = "Blog"
+    url = "/posts/"
+    weight = 30
+    
+  [[menu.main]]
+    identifier = "talks"
+    name = "Talks"
+    url = "/talks/"
+    weight = 40
+    
+  [[menu.main]]
+    identifier = "community"
+    name = "Community"
+    url = "/community/"
+    weight = 50

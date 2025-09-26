@@ -13,8 +13,8 @@ I believe in the power of community and actively contribute to various initiativ
 
 ### [Organization/Community Name]
 
-**Role**: [Your role - e.g., Organizer, Volunteer, Board Member]  
-**Description**: [Brief description of the community and your involvement]  
+**Role**: Chair  
+**Description**: DjangoCon US 2025  
 **Impact**: [What you've accomplished or contributed]
 
 ### [Organization/Community Name]

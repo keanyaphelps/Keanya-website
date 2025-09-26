@@ -11,11 +11,12 @@ I'm passionate about sharing knowledge and experiences with the community throug
 
 ## Upcoming Talks
 
-*Check back for upcoming speaking engagements!*
+_Check back for upcoming speaking engagements!_
 
 ## Past Presentations
 
 ### [Talk Title] - [Event Name]
+
 **Date**: [Date]  
 **Location**: [Location/Virtual]  
 **Topic**: [Brief description]  
@@ -26,6 +27,7 @@ I'm passionate about sharing knowledge and experiences with the community throug
 ## Speaking Topics
 
 I enjoy speaking about:
+
 - **Technology and Innovation**: Emerging trends and practical applications
 - **Career Development**: Navigating professional growth in tech
 - **Community Building**: Creating inclusive and supportive tech communities
@@ -36,6 +38,7 @@ I enjoy speaking about:
 Interested in having me speak at your event? I'd love to hear from you! Please reach out via [email/contact method] with details about your event.
 
 I'm available for:
+
 - Conference keynotes and technical talks
 - Workshop facilitation
 - Panel discussions

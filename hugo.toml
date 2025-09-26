@@ -1,4 +1,4 @@
-baseURL = 'https://keanyaphelps.github.io/Keanya-website/'
+baseURL = 'https://keanyaphelps.com/'
 languageCode = 'en-us'
 title = "Keanya's Personal Website"
 theme = 'PaperMod'

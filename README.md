@@ -4,7 +4,7 @@ This is my personal website built with [Hugo](https://gohugo.io/) and deployed u
 
 ## 🌐 Live Site
 
-Visit the live website at: [https://keanyaphelps.github.io/Keanya-website/](https://keanyaphelps.github.io/Keanya-website/)
+Visit the live website at: [https://keanyaphelps.com/](https://keanyaphelps.com/)
 
 ## 🚀 Features
 
@@ -31,17 +31,20 @@ Visit the live website at: [https://keanyaphelps.github.io/Keanya-website/](http
 ### Local Development
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/keanyaphelps/Keanya-website.git
    cd Keanya-website
    ```
 
 2. Install the theme (if not already done):
+
    ```bash
    git submodule update --init --recursive
    ```
 
 3. Start the development server:
+
    ```bash
    hugo server -D
    ```

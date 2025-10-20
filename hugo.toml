@@ -1,6 +1,6 @@
 baseURL = 'https://keanyaphelps.com/'
 languageCode = 'en-us'
-title = "Keanya's Personal Website"
+title = "Keanya Phelps"
 theme = 'PaperMod'
 
 [params]
@@ -8,7 +8,7 @@ theme = 'PaperMod'
   description = "Welcome to my personal website"
   keywords = ["blog", "portfolio", "personal"]
   homeInfoParams.Title = "Hi there! I'm Keanya 👋"
-  homeInfoParams.Content = "Welcome to my personal website. Here you'll find my thoughts, projects, and more."
+  
   
   ShowReadingTime = true
   ShowShareButtons = true

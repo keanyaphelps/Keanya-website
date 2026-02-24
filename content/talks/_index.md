@@ -2,45 +2,86 @@
 date = '2025-09-25T18:31:30-05:00'
 draft = false
 title = 'Speaking Engagements'
-description = 'Conference talks, workshops, and presentations by Keanya Phelps'
+description = 'I speak about Django and building strong, inclusive open-source communities.'
 +++
 
-# Speaking Engagements
-
-I'm passionate about sharing knowledge and experiences with the community through speaking at conferences, meetups, and workshops.
-
-## Upcoming Talks
-
-_Check back for upcoming speaking engagements!_
-
-## Past Presentations
-
-### [Talk Title] - [Event Name]
-
-**Date**: [Date]  
-**Location**: [Location/Virtual]  
-**Topic**: [Brief description]  
-[Link to slides/recording if available]
+From conference stages to community panels, my goal is simple: make space where collaboration feels safe and innovation feels possible.
 
 ---
 
-## Speaking Topics
+## 2026
 
-I enjoy speaking about:
+### Django Chat — Interview with Will & Carlton
 
-- **Technology and Innovation**: Emerging trends and practical applications
-- **Career Development**: Navigating professional growth in tech
-- **Community Building**: Creating inclusive and supportive tech communities
-- **Diversity and Inclusion**: Promoting equitable opportunities in technology
+{{< youtube 130Zcr2G4oU >}}
 
-## Speaking Requests
+A conversation about developer growth, conference leadership, and shaping the future of the Django ecosystem.
 
-Interested in having me speak at your event? I'd love to hear from you! Please reach out via [email/contact method] with details about your event.
+---
 
-I'm available for:
+## 2025
 
-- Conference keynotes and technical talks
-- Workshop facilitation
-- Panel discussions
-- Meetup presentations
-- Corporate training sessions
+### DjangoCon US 2025 — Opening Remarks
+
+**Role:** Conference Chair - Chicago IL
+
+{{< youtube YAyoePl-EsU >}}
+
+---
+
+### DjangoCon US 2025 — Closing Remarks
+
+**Role:** Conference Chair - Chicago IL
+
+{{< youtube 7ADiw_Xj28o >}}
+
+---
+
+### PyCon US 2025 — Diversity & Inclusion Panel
+
+{{< youtube SQAX4P59u8w >}}
+
+Panel discussion on building equitable, sustainable communities within python and open source.
+
+---
+
+## 2024
+
+### DjangoCon EU 2024 — Pair Programming in Practice
+
+{{< youtube _wFRdJaGO9g >}}
+
+Collaborative engineering before AI, Knowledge transfer, and leveling up teams through pairing.
+
+---
+
+### DjangoCon US 2024 — Community Panel
+
+{{< youtube L3zzYOkg9bI >}}
+
+Panel discussion on sustaining the Django open source ecosystem.
+
+---
+
+## 2023
+
+### DjangoCon US 2023 — Celery in Production
+
+{{< youtube _c1-re23R2k >}}
+
+A technical talk diving into background task processing.
+
+---
+
+## What I Speak About
+
+- Django & sustainable delivery
+- Pair programming & collaborative engineering
+- Open source leadership
+- Diversity, equity, and inclusion in tech
+
+---
+
+## Invite Me to Speak
+
+If you're organizing a conference, meetup, podcast, or developer event, I’d love to contribute.

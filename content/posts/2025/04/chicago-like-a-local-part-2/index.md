@@ -2,11 +2,11 @@
 title: "Chicago Like a Local: Part 2"
 date: 2025-04-24
 cover:
-  image: "chicagonavypier..jpg"
+  image: "chicagonavypier.jpg"
   hiddenInlist: false
   hiddenInSingle: false
   relative: true
-Summary: "Hidden gems, unique eats, speakeasies, offbeat museums, and local favorites to explore during DjangoCon US 2025 in Chicago."
+summary: "Hidden gems, unique eats, speakeasies, offbeat museums, and local favorites to explore during DjangoCon US 2025 in Chicago."
 tags:
   - Chicago
   - DjangoCon US 2025
@@ -24,9 +24,9 @@ Chicago’s food scene goes beyond deep-dish pizza and hot dogs. Here are some l
 
 ### International Flavors
 
-- [Demera Ethiopian Restaurant](https://demera.com/) – Located in Uptown, Demera is the go-to spot for flavorful, communal Ethiopian dining. Try the messob platter for an authentic experience.
+- [Demera Ethiopian Restaurant](https://demerachicago.com/) – Located in Uptown, Demera is the go-to spot for flavorful, communal Ethiopian dining. Try the messob platter for an authentic experience.
 
-- [Crisp](https://crispchicago.com/) – Forget traditional fried chicken—Crisp in Lakeview serves up perfectly crispy, saucy, and flavorful Korean-style wings that will change your life.
+- [Crisp](https://crisponline.com/) – Forget traditional fried chicken—Crisp in Lakeview serves up perfectly crispy, saucy, and flavorful Korean-style wings that will change your life.
 
 ---
 
@@ -87,7 +87,3 @@ If you’re looking for cool souvenirs or unique finds, skip the Magnificent Mil
 - **Be Adventurous** – Some of the best experiences come from wandering around and stumbling upon unexpected places.
 
 ---
-
-Exploring beyond the tourist spots will give you a true taste of Chicago’s character. Stay tuned for Part 3, where we’ll dive into Chicago’s music scene, live performances, and where to catch the best shows!
-
-Have a favorite hidden gem in Chicago? Drop it in the comments and share your local tips!

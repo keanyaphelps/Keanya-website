@@ -1,7 +1,7 @@
 +++
 date = '2026-02-27T21:15:55-06:00'
-draft = true
-title = ''
+draft = false
+title = 'Contact'
 +++
 
 ---

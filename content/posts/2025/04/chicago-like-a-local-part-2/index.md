@@ -2,11 +2,11 @@
 title: "Chicago Like a Local: Part 2"
 date: 2025-04-24
 cover:
-  image: "chicagonavypier.jpeg"
+  image: "chicagonavypier..jpg"
   hiddenInlist: false
   hiddenInSingle: false
   relative: true
-description: "Hidden gems, unique eats, speakeasies, offbeat museums, and local favorites to explore during DjangoCon US 2025 in Chicago."
+Summary: "Hidden gems, unique eats, speakeasies, offbeat museums, and local favorites to explore during DjangoCon US 2025 in Chicago."
 tags:
   - Chicago
   - DjangoCon US 2025

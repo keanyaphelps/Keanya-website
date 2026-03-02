@@ -75,13 +75,17 @@ A technical talk diving into background task processing.
 
 ## What I Speak About
 
-- Django & sustainable delivery
+- Django & Open Source
 - Pair programming & collaborative engineering
-- Open source leadership
-- Diversity, equity, and inclusion in tech
+- Diversity, equity, and inclusion in Tech
 
 ---
 
 ## Invite Me to Speak
 
 If you're organizing a conference, meetup, podcast, or developer event, I’d love to contribute.
+<br>
+
+<a href="/contact/" style="display:inline-block;padding:10px 18px;border:2px solid currentColor;border-radius:6px;text-decoration:none;font-weight:600;">
+Let’s Collaborate
+</a>

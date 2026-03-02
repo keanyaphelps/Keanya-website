@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+</header>
+
+<div class="kp-cards">
+  {{ range .Pages.ByDate.Reverse }}
+
+  <article class="kp-card">
+    {{ with .Resources.GetMatch .Params.cover.image }}
+    <a class="kp-thumb" href="{{ $.RelPermalink }}">
+      <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" />
+    </a>
+    {{ end }}
+
+    <div class="kp-body">
+      <h2 class="kp-title">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </h2>
+
+      <div class="kp-meta">{{ .Date.Format "2 Jan 2006" }}</div>
+
+      <div class="kp-summary">{{ .Summary }}</div>
+    </div>
+  </article>
+
+  {{ end }}
+</div>
+
+{{ end }}

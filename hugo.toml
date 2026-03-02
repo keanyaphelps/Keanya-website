@@ -11,18 +11,17 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
+  ShowShareButtons = false
+  ShowToc = false
+  hideMeta = true
 
-  [params.homeInfoParams]
-    Title = "I help teams do their best work."
-    Content = "Former Python/Django dev with 5+ years managing web and data projects—clear scope, steady cadence, measurable impact."
+  mainSections = []
+
 
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/KeanyaPhelps"
 
-  [[params.socialIcons]]
-    name = "twitter"
-    url = "https://twitter.com/KeanyaPhelps"
 
   [[params.socialIcons]]
     name = "linkedin"
@@ -53,3 +52,8 @@ theme = "PaperMod"
     name = "Contact"
     url = "/contact/"
     weight = 4
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

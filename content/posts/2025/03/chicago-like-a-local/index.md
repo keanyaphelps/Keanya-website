@@ -16,13 +16,6 @@ Whether you’re looking for great food, cultural spots, or just a cool place to
 
 _This is the first in a series of posts leading up to the conference—stay tuned for more Chicago insights as we get closer to the big week._
 
-# Chicago Like a Local: Things to Do During DjangoCon US 2025 (Part 1)
-
-DjangoCon US 2025 is coming to Chicago, and while you’ll be busy soaking in all things Django, there’s no reason you can’t experience the city like a local while you’re here.
-
-Whether you’re looking for great food, cultural spots, or just a cool place to unwind, here are some top recommendations from a Chicago native.
-
-_This is the first in a series of posts leading up to the conference—stay tuned for more Chicago insights as we get closer to the big week._
 
 ---
 
